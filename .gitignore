@@ -1,3 +1,3 @@
 Модуль B9. Управление артефактами.docx
-/npm_exp/node_modules/
-/composer_exp/vendor/
+#/npm_exp/node_modules/
+#/composer_exp/vendor/
