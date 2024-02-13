@@ -1,0 +1,14 @@
+{
+  "name": "taskb9.5.1",
+  "version": "1.0.0",
+  "description": "test ",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "uncleLu",
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.70.0"
+  }
+}
